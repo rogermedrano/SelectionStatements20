@@ -1,0 +1,14 @@
+C:\Users\roger\OneDrive\Desktop\REPO\SelectionStatements20\SelectionStatements20\obj\Debug\netcoreapp3.1\SelectionStatements20.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Desktop\REPO\SelectionStatements20\SelectionStatements20\obj\Debug\netcoreapp3.1\SelectionStatements20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Desktop\REPO\SelectionStatements20\SelectionStatements20\obj\Debug\netcoreapp3.1\SelectionStatements20.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\SelectionStatements20\SelectionStatements20\obj\Debug\netcoreapp3.1\SelectionStatements20.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Desktop\REPO\SelectionStatements20\SelectionStatements20\obj\Debug\netcoreapp3.1\SelectionStatements20.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\SelectionStatements20\SelectionStatements20\bin\Debug\netcoreapp3.1\SelectionStatements20.exe
+C:\Users\roger\OneDrive\Desktop\REPO\SelectionStatements20\SelectionStatements20\bin\Debug\netcoreapp3.1\SelectionStatements20.deps.json
+C:\Users\roger\OneDrive\Desktop\REPO\SelectionStatements20\SelectionStatements20\bin\Debug\netcoreapp3.1\SelectionStatements20.runtimeconfig.json
+C:\Users\roger\OneDrive\Desktop\REPO\SelectionStatements20\SelectionStatements20\bin\Debug\netcoreapp3.1\SelectionStatements20.runtimeconfig.dev.json
+C:\Users\roger\OneDrive\Desktop\REPO\SelectionStatements20\SelectionStatements20\bin\Debug\netcoreapp3.1\SelectionStatements20.dll
+C:\Users\roger\OneDrive\Desktop\REPO\SelectionStatements20\SelectionStatements20\bin\Debug\netcoreapp3.1\SelectionStatements20.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\SelectionStatements20\SelectionStatements20\obj\Debug\netcoreapp3.1\SelectionStatements20.dll
+C:\Users\roger\OneDrive\Desktop\REPO\SelectionStatements20\SelectionStatements20\obj\Debug\netcoreapp3.1\SelectionStatements20.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\SelectionStatements20\SelectionStatements20\obj\Debug\netcoreapp3.1\SelectionStatements20.genruntimeconfig.cache
